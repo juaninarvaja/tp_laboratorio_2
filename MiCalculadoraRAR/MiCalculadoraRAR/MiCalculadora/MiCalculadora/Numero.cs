@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -45,7 +45,7 @@ namespace Entidades
         /// <summary>
         /// Asigna un valor al atributo numero.
         /// </summary>
-        /// <param name="strNumero">numero en forma de cadena</param>
+        /// <param name="strNumero"></param>
         private string SetNumero
         {
             set{

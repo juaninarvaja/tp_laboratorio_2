@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,11 @@ namespace Entidades
 {
     public class Calculadora
     {
-        private static  string ValidarOperador(string operador)
+    /// <summary>
+    /// Valida que el operador sea valido
+    /// </summary>
+    /// <param name="operador">operador en forma de char</param>
+    private static  string ValidarOperador(string operador)
         {
             if (operador == "+" || operador == "-" || operador == "/" || operador == "*")
             {
@@ -16,7 +20,13 @@ namespace Entidades
             }
             else return "+";
         }
-        public static double Operar(Numero numeroUno, Numero numeroDos, string operador)
+    /// Recibe dos numeros y un operador y devuelve el resultado de la operacion 
+    /// </summary>
+    /// <param name="numeroUno">primer valor</param>
+    /// <param name="numeroDos">segundo valor</param>
+    /// <param name="operador">operador </param>
+    /// <returns>resutlado en dorma de double</returns>
+    public static double Operar(Numero numeroUno, Numero numeroDos, string operador)
         {
             operador = ValidarOperador(operador);
             double resultado = 0;
