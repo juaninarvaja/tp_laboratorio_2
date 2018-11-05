@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\PC\Desktop\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\PC\Desktop\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\PC\Desktop\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\Narvaja.JuanIgnacio.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
